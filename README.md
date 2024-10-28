@@ -1,6 +1,8 @@
 # modmarg
 Calculating Marginal Effects and Levels with Errors Using the Delta Method Use modmarg With (In) R Software
 
+https://www.youtube.com/watch?v=bkgtd7X3zVg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
